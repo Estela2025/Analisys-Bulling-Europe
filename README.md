@@ -26,13 +26,11 @@ Herramientas utilizadas:
 ---
 
 ## 🌐 Autor
-
-    Estela Morente
-    Analista de Datos Júnior
-    [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)
-    [Mi Perfil de GitHub]https://github.com/Estela2025
-
-
+**Estela Morente**
+Analista de Datos Júnior
+[LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)
+[GitHub](https://github.com/Estela2025)
+    
 ---
 
 _Gracias por visitar mi portafolio._
