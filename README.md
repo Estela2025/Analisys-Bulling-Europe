@@ -29,9 +29,8 @@ Herramientas utilizadas:
 
     Estela Morente
     Analista de Datos Júnior
-    linkedin.com/in/estela-m-a2b648238
-    https://github.com/Estela2025
-    
+    [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)
+    [Mi Perfil de GitHub](https://github.com/TuNombreDeUsuario)
 
 
 ---
