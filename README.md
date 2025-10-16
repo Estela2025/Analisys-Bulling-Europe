@@ -25,10 +25,15 @@ Herramientas utilizadas:
 
 ---
 
-## 🌐 Contacto
+## 🌐 Autor
 
-📧 Email: [emaria201269@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/estela-m-a2b648238](https://www.linkedin.com/in/estela-m-a2b648238)
+    Estela Morente
+    Analista de Datos Júnior
+    linkedin.com/in/estela-m-a2b648238
+    Mi Perfil de GitHub
+
+
+
 
 ---
 
