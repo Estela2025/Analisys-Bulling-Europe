@@ -24,12 +24,12 @@ Herramientas utilizadas:
 🔗 Visible en mi perfil de [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)
 
 ---
-
-## 🌐 Autor
+👤 Autor
 **Estela Morente**<br>
 Analista de Datos Júnior<br>
 [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)<br>
 [GitHub](https://github.com/Estela2025)
+
 ---
 
 _Gracias por visitar mi portafolio._
