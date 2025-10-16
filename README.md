@@ -26,7 +26,6 @@ Herramientas utilizadas:
 ---
 
 ## 🌐 Autor
-🌐 Autor
 **Estela Morente**<br>
 Analista de Datos Júnior<br>
 [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)<br>
