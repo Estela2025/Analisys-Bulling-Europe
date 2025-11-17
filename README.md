@@ -1,35 +1,17 @@
-# Análisis del Acoso Escolar en Europa (2022): De los Datos a la Acción
-Portafolio de proyectos de análisis de datos
-# 📊 Portafolio de Análisis de Datos – Estela Morente
+# 🎓 Análisis del Acoso Escolar en Europa (2022): De los Datos a la Acción
 
-¡Hola! Soy Estela, analista de datos en nivel *entry-level*, con formación en Google Data Analytics (Coursera). Me apasiona transformar datos en información clara para la toma de decisiones. Busco oportunidades remotas como analista júnior.
+## 📌 Resumen del Proyecto
+Este proyecto fue desarrollado como parte del proyecto final en el curso de Google Data Analytics. El objetivo principal fue transformar un conjunto de datos brutos sobre el acoso escolar en Europa en información accionable, facilitando la identificación de tendencias y áreas de intervención.
 
----
+## 🛠️ Herramientas y Metodología
+* **SQL:** Utilizado para la limpieza, estructuración y preparación del conjunto de datos.
+* **R (Lenguaje de programación):** Aplicado para el análisis estadístico y la generación de métricas clave.
+* **Tableau:** Usado para el desarrollo de la visualización interactiva final.
+* **Hojas de cálculo**
 
-## 📁 Proyecto Destacado
-
-### 🎓 Análisis del Acoso Escolar en Europa (2022): De los Datos a la Acción
-
-🔗 [Visualización interactiva en Tableau](https://public.tableau.com/app/profile/estela.morente/viz/AnlisisdelAcosoEscolarenEuropa2022delosDatosalaAccin/MapaInteractivodelAcosoEscolarenEuropa)  
-📄 Desarrollado como parte del proyecto final en el curso de Google Data Analytics.
-
-Herramientas utilizadas:  
-`Tableau · R · SQL · Hojas de cálculo`
+## 🔗 Enlace a la Visualización
+[Visualización interactiva en Tableau](https://public.tableau.com/app/profile/estela.morente/viz/AnlisisdelAcosoEscolarenEuropa2022delosDatosalaAccin/MapaInteractivodelAcosoEscolarenEuropa)
 
 ---
 
-## 🎓 Certificación
-
-**Google Data Analytics – Coursera (2024)**  
-🔗 Visible en mi perfil de [LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)
-
----
-👤 Autor
-**Estela Morente**<br>
-Analista de Datos Júnior<br>
-[LinkedIn](https://www.linkedin.com/in/estela-m-a2b648238)<br>
-[GitHub](https://github.com/Estela2025)
-
----
-
-_Gracias por visitar mi portafolio._
+_Gracias por revisar este proyecto._
